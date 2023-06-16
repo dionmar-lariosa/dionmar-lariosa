@@ -1,4 +1,3 @@
-![Header](./your-header-image-name.png)
 <h1 align="center">Junior Software Enginee</h1>
 - 👨‍💻 All of my projects are available at [...on progress](...on progress)
 
