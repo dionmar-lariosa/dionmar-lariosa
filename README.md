@@ -1,8 +1,5 @@
 ![Header](./github-header-image.png)
 
-
-- 👨‍💻 All of my projects are available at ...on progress
-
 - 📫 How to reach me **main.dionmar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1em59slHiC-V_FQo3XtwxxFbZxe0-hGGu/view?usp=sharing](https://drive.google.com/file/d/1em59slHiC-V_FQo3XtwxxFbZxe0-hGGu/view?usp=sharing)
