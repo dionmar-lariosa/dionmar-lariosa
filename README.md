@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-- 👨‍💻 All of my projects are available at [...on progress](...on progress)
+- 👨‍💻 All of my projects are available at ...on progress
 
 - 📫 How to reach me **main.dionmar@gmail.com**
 
