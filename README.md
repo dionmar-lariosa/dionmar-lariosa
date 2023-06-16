@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 <h1 align="center">Junior Software Enginee</h1>
 - 👨‍💻 All of my projects are available at [...on progress](...on progress)
